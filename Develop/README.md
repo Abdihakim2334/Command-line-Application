@@ -1,7 +1,7 @@
 # Readme Generator
 
 ## Description
-This is a command-line application used to create a readme.
+This a command-line Application that generates  a readme
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,7 +12,7 @@ This is a command-line application used to create a readme.
 - [Questions](#questions)
 
 ## Installation
-npm install, npm start
+You must install dependecies running npm install
 
 ## Usage
 
@@ -24,10 +24,10 @@ This project is licensed under the MIT License. See the [License](https://openso
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Contributing
-This a readme generator so it can always be expanded on depending on your project
+you can fork the project and make your own improvements
 
 ## Tests
-None
+Npm test
 
 ## Questions
 For any questions, please contact me via [GitHub](https://github.com/Abdihakim2334) or email me at Abdihakim2334@gmail.com.
