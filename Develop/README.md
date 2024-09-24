@@ -14,8 +14,8 @@ This a command-line Application that generates  a readme
 ## Installation
 You must install dependecies running npm install
 
-## Usage
-
+## Demonstration
+Link to the video of readme generator here (https://drive.google.com/file/d/1G_MeIdfzgAitcpnqm5gRcHVYEs-FM9nV/view?usp=sharing)
 
 ## License
 
